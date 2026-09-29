@@ -2,7 +2,7 @@
 
 > Landing page para clínica odontológica: acolhedora, rápida e focada em agendamento pelo WhatsApp.
 
-**🔗 Demo:** _em breve_ · **Nicho:** Saúde · Clínica odontológica
+**🔗 Demo:** [clinica-sorriso-rouge.vercel.app](https://clinica-sorriso-rouge.vercel.app) · **Nicho:** Saúde · Clínica odontológica
 
 > ⚠️ Projeto **conceitual de portfólio**. Empresa, pessoas, endereços e números são fictícios.
 
